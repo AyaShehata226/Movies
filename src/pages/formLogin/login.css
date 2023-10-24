@@ -1,0 +1,9 @@
+.input{
+    position: relative;
+}
+.icon {
+    position: absolute;
+    right: 25px;
+    top: 60%;
+    color: black;
+  }
